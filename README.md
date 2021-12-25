@@ -153,7 +153,7 @@ Okay, how did you come to this conclusion? Did you get this feedback from multip
 
 or, do you just feel so? It's often just a feeling and it's actually an indicator that you are doing good. Dunning-Kruger effect explains it well:
 
-<img alt="dunning-kruger effect" src="assets/dunken-kruger-effect.png" height=400/>
+<img alt="dunning-kruger effect" src="dunken-kruger-effect.png" height=400/>
 
 ### How to avoid burnouts?
 Divide your day into 3 parts:
@@ -194,7 +194,7 @@ All done? Cool, feel free to waste your time now, you have earned it.  Following
 
 If it's the second, break down your 'important things' into smaller tasks and make a to-do list out of them. Here's a template I made for a friend who wants to write a research paper for their PhD:
 
-![phd-template](assets/phd-template.png)
+![phd-template](phd-template.png)
 
 If it's the first one where you already start feeling good after getting things done, gradually increase the number of articles and push-ups, extend the list of activities. Soon, you will feel like taking on the important task, break it down as I mentioned earlier and start.
 
