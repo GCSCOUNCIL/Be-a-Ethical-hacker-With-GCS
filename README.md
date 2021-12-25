@@ -104,7 +104,7 @@ To understand how a given software works (makes it easy to hack it) and to creat
 
 There are a lot of programming languages but I will suggest you to start with Python because it's easy and can do almost everything from creating a face detector to a website.
 
-I have written an article about how to get started, [check it out](https://GCSCOUNCIL.medium.com/learn-to-code-in-less-than-a-week-8f3da5e0ab29).
+
 
 #### Basic hacking concepts
 There are some concepts that you will find in every other cyber security-related article and they come in handy in most fields.
@@ -174,7 +174,6 @@ Make peace with it and do it as early as possible. You don't want to miss out on
 ### I want to do great and innovative things.
 This talk by Haroon Meer tackles this problem very well: [You and your research](https://www.youtube.com/watch?v=JoVx_-bM8Tg). This is a hacking specific version of  the original "[You and your research](https://www.youtube.com/watch?v=a1zDuOPkMSw)" talk given to science students by Dr. Richard W. Hamming.
 
-You may also want to read my blog about [Creativity, Self-Doubt and Doing Remarkable Work](https://GCSCOUNCIL.github.io/blog/creativity-and-self-doubt).
 
 ### I want to do things but I end up doing nothing all day.
 
